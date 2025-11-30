@@ -107,7 +107,7 @@ Changelogs, releases, versioning, UX, and support instructions.
 
 ## 🧩 **Pinned Work**
 
-> See my pinned repositories below to explore my MemberPress plugins, billing tools, internal automations, and WordPress development work.
+> See my pinned repositories below to explore my WordPress plugins, billing tools, internal automations, and development work.
 
 ---
 
