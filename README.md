@@ -10,104 +10,109 @@
 
 ---
 
-# 👋 Hi, I'm **Omar El-Hawary**
+## 👋 Hi, I’m Omar ElHawary
 
-### **WordPress & MemberPress Developer | Product-Minded Support Engineer | Future PM**
+I’m a **Technical Consultant / Solutions Engineer** with 7+ years of experience working with SaaS products and WordPress-based platforms.
 
-I build **real-world WordPress plugins** that solve high-impact problems for MemberPress customers and internal support teams.  
-My work lives at the intersection of **engineering, support, product strategy, and automation**.
+My focus is helping companies and customers **design, implement, and troubleshoot complex technical solutions** — especially around memberships, subscriptions, payments, APIs, and integrations.
 
-I care deeply about:
-- Crafting tools that **reduce manual work**
-- Turning **support insights → product decisions**
-- Building reliable **billing, reporting, and membership workflows**
-- Exploring **AI-driven solutions** for support and operations
-- Preparing myself for a transition into **Product Management**
+I work closely with customers, support teams, and engineers to bridge the gap between **business requirements and technical execution** in real-world production environments.
 
 ---
 
-## 🚀 **Featured Projects**
+## 🔧 What I Work On
 
-### 🧾 **MemberPress Gift Reporter**  
+- Solution design for SaaS and WordPress-based platforms  
+- API integrations and webhook-driven workflows  
+- Payment systems (Stripe, PayPal)  
+- Custom WordPress plugins and internal tools  
+- Debugging complex production issues  
+- Technical documentation and knowledge bases  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧾 MemberPress Gift Reporter  
 *A full reporting suite built for the MemberPress Gifting Add-On.*
 
 ✔ Admin dashboard  
-✔ Gift history, filters, redemption tracking  
+✔ Gift history, filters, and redemption tracking  
 ✔ Weekly summaries  
 ✔ Email reminders  
 ✔ CSV export  
 ✔ Template overrides  
 ✔ Cron-powered automation  
 
-🔗 **Repo:** https://github.com/omaraelhawary/memberpress-gift-reporter
+🔗 Repo: https://github.com/omaraelhawary/memberpress-gift-reporter
 
 ---
 
-### 📦 **MemberPress Bulk Invoice Generator**  
-A powerful productivity tool that lets admins generate large batches of invoices safely with:
+### 📦 MemberPress Bulk Invoice Generator  
+A productivity-focused tool that allows admins to safely generate invoices at scale using:
 
-✔ Progress bars  
 ✔ Batching system  
-✔ Filters & date ranges  
+✔ Progress indicators  
+✔ Filters and date ranges  
 ✔ Error-safe execution  
-✔ Clean UI/UX  
-✔ Real-world use cases  
+✔ Clean admin UI  
+✔ Real production use cases  
 
-🔗 **Repo:** https://github.com/omaraelhawary/memberpress-bulk-invoice-generator
-
----
-
-## 🎯 **What I’m Working On**
-
-- Building internal tools that simplify support workflows  
-- Improving product clarity through structured SKB documentation  
-- Exploring **AI integrations** for MemberPress + WordPress  
-- Strengthening my roadmap, planning, and product-thinking skills  
-- Preparing for a hybrid path: **Support → APM → Product Manager**
+🔗 Repo: https://github.com/omaraelhawary/memberpress-bulk-invoice-generator
 
 ---
 
-## 🧠 **My Engineering Approach**
+## 🎯 What I’m Currently Working On
 
-### **1. Solve real problems, not theoretical ones**  
-All major projects I build come directly from real customer pain points.
-
-### **2. Think in terms of workflows, not features**  
-“Who is the user? What friction do they feel? How do we reduce that friction?”
-
-### **3. Build with reliability first**  
-Batching, cron safety, logs, error handling, and clear admin UI.
-
-### **4. Always document**  
-A plugin is only useful if admins understand it.
-
-### **5. Treat every plugin like a product**  
-Changelogs, releases, versioning, UX, and support instructions.
+- Building internal tools that simplify support and implementation workflows  
+- Improving onboarding and product clarity through structured documentation  
+- Designing reusable solutions for common SaaS edge cases  
+- Exploring practical AI integrations for WordPress and support automation  
+- Strengthening solution design, architecture, and customer-facing technical skills  
 
 ---
 
-## 💬 **Interests**
+## 🧠 My Engineering & Consulting Approach
 
-- Product Management & Growth  
-- WordPress & Membership Platforms  
-- AI for support, automation, and content  
-- Reporting, analytics, and data workflows  
-- Teaching, training & building better support systems  
-- Plugin architecture & clean backend engineering  
+### 1. Solve real production problems  
+All projects are driven by real customer use cases, not theoretical examples.
+
+### 2. Think in workflows, not features  
+Understanding how users interact with systems end-to-end is key.
+
+### 3. Build for reliability first  
+Batching, cron safety, logging, error handling, and predictable behavior.
+
+### 4. Documentation is part of the solution  
+Clear documentation reduces friction, support load, and misuse.
+
+### 5. Treat every tool like a product  
+Versioning, changelogs, UX clarity, and maintainability always matter.
 
 ---
 
-## 🤝 **Connect With Me**
+## 💬 Interests
 
-- **LinkedIn:** https://linkedin.com/in/omaraelhawary  
-- **GitHub:** You’re already here 🚀  
-- **Location:** Cairo, Egypt  
+- Technical Consulting & Solutions Engineering  
+- SaaS platforms & integrations  
+- WordPress & membership systems  
+- Payments, subscriptions, and billing workflows  
+- Automation, reporting, and analytics  
+- AI-assisted support and tooling  
 
 ---
 
-## 🧩 **Pinned Work**
+## 🤝 Connect With Me
 
-> See my pinned repositories below to explore my WordPress plugins, billing tools, internal automations, and development work.
+- LinkedIn: https://linkedin.com/in/omaraelhawary  
+- GitHub: You’re already here 🚀  
+- Location: Cairo, Egypt (Open to Remote – EMEA / Global)
+
+---
+
+## 🧩 Pinned Work
+
+Explore my pinned repositories below to see real-world WordPress plugins, internal tools, integrations, and production-ready solutions.
 
 ---
 
