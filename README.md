@@ -1,87 +1,126 @@
-# 👋 Hi, I'm Omar El-Hawary
+# 🚀 Omar El-Hawary
 
-[![WordPress Plugin](https://img.shields.io/badge/WordPress-Plugin-blue?logo=wordpress)](https://wordpress.org/plugins/memberpress-gift-reporter/)
-[![WordPress Profile](https://img.shields.io/badge/WordPress.org-Profile-blue?logo=wordpress)](https://profiles.wordpress.org/omarelhawary/)
-[![GitHub followers](https://img.shields.io/github/followers/omaraelhawary?label=Follow&style=social)](https://github.com/omaraelhawary)
-[![GitHub stars](https://img.shields.io/github/stars/omaraelhawary/memberpress-gift-reporter?style=social)](https://github.com/omaraelhawary/memberpress-gift-reporter)
+<div align="center">
 
-**WordPress Developer • MemberPress Specialist • WordPress.org Plugin Author**  
-Turning real support pain points into production-ready WordPress solutions.
+[![WordPress Plugin Author](https://img.shields.io/badge/WordPress-Plugin_Author-21759b?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/omarelhawary/)
+[![Live on WordPress.org](https://img.shields.io/badge/Published-WordPress.org-blue?style=for-the-badge&logo=wordpress)](https://wordpress.org/plugins/memberpress-gift-reporter/)
+</div>
 
 ---
 
-## 🚀 Published on WordPress.org
+## 👋 About Me
 
-### 🎁 MemberPress Gift Reporter  
+**WordPress Developer • MemberPress Specialist • WordPress.org Plugin Author**
 
-[![Active Installs](https://img.shields.io/badge/Active%20Installs-View%20on%20WP.org-21759b?logo=wordpress)](https://wordpress.org/plugins/memberpress-gift-reporter/)
-[![Version](https://img.shields.io/github/v/release/omaraelhawary/memberpress-gift-reporter)](https://github.com/omaraelhawary/memberpress-gift-reporter/releases)
-[![License](https://img.shields.io/github/license/omaraelhawary/memberpress-gift-reporter)](https://github.com/omaraelhawary/memberpress-gift-reporter/blob/main/LICENSE)
+I turn real-world membership, billing, and reporting problems into  
+production-ready, standards-compliant WordPress solutions.
 
-🔗 Plugin: https://wordpress.org/plugins/memberpress-gift-reporter/  
-👤 Profile: https://profiles.wordpress.org/omarelhawary/
-
-**What it does**  
-Adds advanced reporting, scheduled reminders, and weekly summaries for MemberPress Gift memberships.
-
-**Why I built it**  
-As a Tier-3 Support Engineer working deeply inside the MemberPress ecosystem, I repeatedly saw the same reporting gaps.  
-Instead of documenting workarounds, I built a scalable, standards-compliant solution and shipped it to WordPress.org.
-
-**What this demonstrates**
-- ✔ Passed WordPress.org plugin review  
-- ✔ Follows WordPress coding standards  
-- ✔ Built for real production environments  
-- ✔ Actively maintained and supported  
+Not experiments.  
+Shipped tools.
 
 ---
 
-## 🛠 Featured Projects
+# 🎁 Hero Plugin
 
-### 📄 MemberPress PDF Invoice Generator  
-Generate structured, exportable invoice PDFs directly from MemberPress data.
+## MemberPress Gift Reporter
 
-[![Repo Stars](https://img.shields.io/github/stars/omaraelhawary/memberpress-bulk-invoice-generator?style=social)](https://github.com/omaraelhawary/memberpress-bulk-invoice-generator)
+<div align="center">
 
-Designed for reliability, clarity, and extensibility.
+[![View Plugin](https://img.shields.io/badge/View_Plugin-WordPress.org-21759b?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/plugins/memberpress-gift-reporter/)
+[![View Source](https://img.shields.io/badge/View_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/omaraelhawary/memberpress-gift-reporter)
+[![License](https://img.shields.io/github/license/omaraelhawary/memberpress-gift-reporter?style=for-the-badge)](https://github.com/omaraelhawary/memberpress-gift-reporter)
 
----
+</div>
 
-## 🧠 Development Philosophy
+### Why it exists
 
-I build tools that solve:
+While working as a Tier-3 Support Engineer inside the MemberPress ecosystem,  
+I consistently encountered reporting gaps around Gift memberships.
 
-- Subscription edge cases  
-- Reporting limitations  
-- Billing workflow friction  
-- Admin inefficiencies  
-- Support-heavy recurring scenarios  
+Instead of repeating workarounds, I designed and shipped a scalable solution to WordPress.org.
 
-**Framework**
+### What it delivers
 
-Problem → Constraints → Clean Implementation → Maintainable Architecture → Public Release
-
----
-
-## 💼 Professional Background
-
-- Tier-3 WordPress Support Engineer (MemberPress ecosystem)  
-- Deep experience with:
-  - Subscription systems  
-  - Payment gateways  
-  - WP-Cron & async processing  
-  - MemberPress rules & access logic  
-  - Reporting & data exports  
-  - Production debugging  
-
-Operating at the intersection of support, engineering, and product thinking.
+- Advanced Gift reporting
+- Scheduled reminder emails
+- Weekly summary automation
+- Clean exportable data
+- Architecture built for production
 
 ---
 
-## 🌍 Connect
+# 🧩 MemberPress Ecosystem Tools
 
-- WordPress.org: https://profiles.wordpress.org/omarelhawary/  
-- GitHub: https://github.com/omaraelhawary  
-- LinkedIn: https://www.linkedin.com/in/omaraelhawary  
+## 🧾 PDF Invoice Generator for MemberPress
+
+[![View Repository](https://img.shields.io/badge/View_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/omaraelhawary/pdf-invoice-generator-for-memberpress)
+
+Generate structured, downloadable PDF invoices tied directly to MemberPress transactions.
+
+Built for real billing workflows requiring compliance-ready documentation.
+
+**Core focus**
+- Clean PDF generation flow
+- Maintainable architecture
+- Extensible foundation
+- Production-first design
+
+---
+
+## 🧯 Disable Emails on Staging for MemberPress
+
+[![View Repository](https://img.shields.io/badge/View_Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/omaraelhawary/staging-disable-emails-memberpress)
+
+A lightweight safety utility preventing MemberPress emails from being sent in staging environments.
+
+Designed to eliminate accidental customer emails during QA or development.
+
+**Why it matters**
+- Protects production users
+- Ideal for multi-environment workflows
+- Install-and-forget simplicity
+
+---
+
+# 🛠 Engineering Focus
+
+I specialize in solving:
+
+- Subscription lifecycle edge cases
+- Payment gateway behavior conflicts
+- Membership rule complexity
+- Reporting system gaps
+- Async processing via WP-Cron
+- Real-world production debugging
+
+Framework I follow:
+
+Problem → Constraints → Clean Architecture → Maintainable Code → Public Release
+
+---
+
+# 💼 Professional Background
+
+Tier-3 WordPress Support Engineer  
+Deep MemberPress ecosystem expertise
+
+Bridging Support, Engineering, and Product.
+
+---
+
+# 🚀 Current Direction
+
+- Expanding WordPress.org plugin portfolio
+- Building scalable membership utilities
+- Moving deeper into Product & Technical Solutions roles
+- Designing systems, not just features
+
+---
+
+# 🌍 Connect
+
+[![WordPress Profile](https://img.shields.io/badge/WordPress_Profile-21759b?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/omarelhawary/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraelhawary/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/omaraelhawary)
 
 ---
