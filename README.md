@@ -1,119 +1,87 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=180&section=header&text=Omar%20El-Hawary&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+# 👋 Hi, I'm Omar El-Hawary
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omaraelhawary&style=for-the-badge&color=3a7bd5" />
-  <img src="https://img.shields.io/github/followers/omaraelhawary?style=for-the-badge&color=00a8ff" />
-  <img src="https://img.shields.io/github/stars/omaraelhawary?affiliations=OWNER&style=for-the-badge&color=00d2ff" />
-</p>
+[![WordPress Plugin](https://img.shields.io/badge/WordPress-Plugin-blue?logo=wordpress)](https://wordpress.org/plugins/memberpress-gift-reporter/)
+[![WordPress Profile](https://img.shields.io/badge/WordPress.org-Profile-blue?logo=wordpress)](https://profiles.wordpress.org/omarelhawary/)
+[![GitHub followers](https://img.shields.io/github/followers/omaraelhawary?label=Follow&style=social)](https://github.com/omaraelhawary)
+[![GitHub stars](https://img.shields.io/github/stars/omaraelhawary/memberpress-gift-reporter?style=social)](https://github.com/omaraelhawary/memberpress-gift-reporter)
 
----
-
-## 👋 Hi, I’m Omar ElHawary
-
-I’m a **Technical Consultant / Solutions Engineer** with 7+ years of experience working with SaaS products and WordPress-based platforms.
-
-My focus is helping companies and customers **design, implement, and troubleshoot complex technical solutions** — especially around memberships, subscriptions, payments, APIs, and integrations.
-
-I work closely with customers, support teams, and engineers to bridge the gap between **business requirements and technical execution** in real-world production environments.
+**WordPress Developer • MemberPress Specialist • WordPress.org Plugin Author**  
+Turning real support pain points into production-ready WordPress solutions.
 
 ---
 
-## 🔧 What I Work On
+## 🚀 Published on WordPress.org
 
-- Solution design for SaaS and WordPress-based platforms  
-- API integrations and webhook-driven workflows  
-- Payment systems (Stripe, PayPal)  
-- Custom WordPress plugins and internal tools  
-- Debugging complex production issues  
-- Technical documentation and knowledge bases  
+### 🎁 MemberPress Gift Reporter  
 
----
+[![Active Installs](https://img.shields.io/badge/Active%20Installs-View%20on%20WP.org-21759b?logo=wordpress)](https://wordpress.org/plugins/memberpress-gift-reporter/)
+[![Version](https://img.shields.io/github/v/release/omaraelhawary/memberpress-gift-reporter)](https://github.com/omaraelhawary/memberpress-gift-reporter/releases)
+[![License](https://img.shields.io/github/license/omaraelhawary/memberpress-gift-reporter)](https://github.com/omaraelhawary/memberpress-gift-reporter/blob/main/LICENSE)
 
-## 🚀 Featured Projects
+🔗 Plugin: https://wordpress.org/plugins/memberpress-gift-reporter/  
+👤 Profile: https://profiles.wordpress.org/omarelhawary/
 
-### 🧾 MemberPress Gift Reporter  
-*A full reporting suite built for the MemberPress Gifting Add-On.*
+**What it does**  
+Adds advanced reporting, scheduled reminders, and weekly summaries for MemberPress Gift memberships.
 
-✔ Admin dashboard  
-✔ Gift history, filters, and redemption tracking  
-✔ Weekly summaries  
-✔ Email reminders  
-✔ CSV export  
-✔ Template overrides  
-✔ Cron-powered automation  
+**Why I built it**  
+As a Tier-3 Support Engineer working deeply inside the MemberPress ecosystem, I repeatedly saw the same reporting gaps.  
+Instead of documenting workarounds, I built a scalable, standards-compliant solution and shipped it to WordPress.org.
 
-🔗 Repo: https://github.com/omaraelhawary/memberpress-gift-reporter
+**What this demonstrates**
+- ✔ Passed WordPress.org plugin review  
+- ✔ Follows WordPress coding standards  
+- ✔ Built for real production environments  
+- ✔ Actively maintained and supported  
 
 ---
 
-### 📦 MemberPress Bulk Invoice Generator  
-A productivity-focused tool that allows admins to safely generate invoices at scale using:
+## 🛠 Featured Projects
 
-✔ Batching system  
-✔ Progress indicators  
-✔ Filters and date ranges  
-✔ Error-safe execution  
-✔ Clean admin UI  
-✔ Real production use cases  
+### 📄 MemberPress PDF Invoice Generator  
+Generate structured, exportable invoice PDFs directly from MemberPress data.
 
-🔗 Repo: https://github.com/omaraelhawary/memberpress-bulk-invoice-generator
+[![Repo Stars](https://img.shields.io/github/stars/omaraelhawary/memberpress-bulk-invoice-generator?style=social)](https://github.com/omaraelhawary/memberpress-bulk-invoice-generator)
+
+Designed for reliability, clarity, and extensibility.
 
 ---
 
-## 🎯 What I’m Currently Working On
+## 🧠 Development Philosophy
 
-- Building internal tools that simplify support and implementation workflows  
-- Improving onboarding and product clarity through structured documentation  
-- Designing reusable solutions for common SaaS edge cases  
-- Exploring practical AI integrations for WordPress and support automation  
-- Strengthening solution design, architecture, and customer-facing technical skills  
+I build tools that solve:
 
----
+- Subscription edge cases  
+- Reporting limitations  
+- Billing workflow friction  
+- Admin inefficiencies  
+- Support-heavy recurring scenarios  
 
-## 🧠 My Engineering & Consulting Approach
+**Framework**
 
-### 1. Solve real production problems  
-All projects are driven by real customer use cases, not theoretical examples.
-
-### 2. Think in workflows, not features  
-Understanding how users interact with systems end-to-end is key.
-
-### 3. Build for reliability first  
-Batching, cron safety, logging, error handling, and predictable behavior.
-
-### 4. Documentation is part of the solution  
-Clear documentation reduces friction, support load, and misuse.
-
-### 5. Treat every tool like a product  
-Versioning, changelogs, UX clarity, and maintainability always matter.
+Problem → Constraints → Clean Implementation → Maintainable Architecture → Public Release
 
 ---
 
-## 💬 Interests
+## 💼 Professional Background
 
-- Technical Consulting & Solutions Engineering  
-- SaaS platforms & integrations  
-- WordPress & membership systems  
-- Payments, subscriptions, and billing workflows  
-- Automation, reporting, and analytics  
-- AI-assisted support and tooling  
+- Tier-3 WordPress Support Engineer (MemberPress ecosystem)  
+- Deep experience with:
+  - Subscription systems  
+  - Payment gateways  
+  - WP-Cron & async processing  
+  - MemberPress rules & access logic  
+  - Reporting & data exports  
+  - Production debugging  
 
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/omaraelhawary  
-- GitHub: You’re already here 🚀  
-- Location: Cairo, Egypt (Open to Remote – EMEA / Global)
+Operating at the intersection of support, engineering, and product thinking.
 
 ---
 
-## 🧩 Pinned Work
+## 🌍 Connect
 
-Explore my pinned repositories below to see real-world WordPress plugins, internal tools, integrations, and production-ready solutions.
+- WordPress.org: https://profiles.wordpress.org/omarelhawary/  
+- GitHub: https://github.com/omaraelhawary  
+- LinkedIn: https://www.linkedin.com/in/omaraelhawary  
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=140&section=footer" />
