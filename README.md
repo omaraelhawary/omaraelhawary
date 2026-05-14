@@ -126,8 +126,8 @@ Generates structured, downloadable PDF invoices tied to MemberPress transactions
 </td>
 <td width="50%" valign="top">
 
-**[🧯 Disable Emails on Staging](https://github.com/omaraelhawary/staging-disable-emails-memberpress)**
-Prevents MemberPress emails from firing in staging environments. Protects production users across multi-environment workflows.
+**[🧯 Staging Safe Mode for MemberPress](https://github.com/omaraelhawary/staging-safe-mode-memberpress)**
+MemberPress staging safeguards — block MP-related mail, pause reminders, sandbox gateways at read time, optional dev-tools unload, force non-production, one-time staging notice.
 
 </td>
 </tr>
