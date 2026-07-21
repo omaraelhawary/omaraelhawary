@@ -1,13 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:21759b&height=120&section=header&text=Omar%20El-Hawary&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn">
-  <img alt="Omar El-Hawary — Senior Technical Consultant | Solutions Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4f8,100:21759b&height=120&section=header&text=Omar%20El-Hawary&fontSize=36&fontColor=1a1a2e&fontAlignY=65&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16324a,100:21759b&height=120&section=header&text=Omar%20El-Hawary&fontSize=36&fontColor=ffffff&fontAlignY=65">
+  <img alt="Omar El-Hawary — applied AI: evals, RAG, knowledge systems" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4f8,100:21759b&height=120&section=header&text=Omar%20El-Hawary&fontSize=36&fontColor=1a1a2e&fontAlignY=65" width="100%">
 </picture>
 
-**Senior Technical Consultant | Solutions Engineer**
+**Applied AI — evals, RAG, knowledge systems**
 
-I solve complex WordPress problems at the enterprise level — diagnosing production failures, designing scalable solutions, and shipping tools that eliminate recurring failure patterns.
-
-Working toward Solutions Engineering and Forward Deployed Engineering roles at the Automattic / WordPress VIP level.
+I work in applied AI at Caseproof: I own the content quality of the curated knowledge base behind an AI advisor product — knowledge curation, retrieval grounding, and evals. The foundation is seven years and 5,000+ Tier 3 production tickets, which taught me to tell a plausible answer from a correct one. That turns out to be most of the job. The tools I shipped along the way live here.
 
 [![Website](https://img.shields.io/badge/omarelhawary.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://omarelhawary.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraelhawary/)
@@ -20,19 +18,20 @@ Working toward Solutions Engineering and Forward Deployed Engineering roles at t
 <td width="55%" valign="top">
 
 ### About
-**Senior Technical Support Engineer (Tier 3)** at **Caseproof** (MemberPress) — the highest escalation level, working as a technical partner across subscription lifecycle failures, payment gateway conflicts, REST API integrations, and platform-critical bugs.
 
-The work overlaps heavily with Solutions Engineering: customer-facing technical consulting, architecture review, and pre-/post-implementation guidance — alongside deep production debugging.
+**Content and Knowledge Strategist** on **Caseproof**'s AI team — responsible for what goes into an AI advisor product's knowledge base and whether its answers hold up: curation standards, retrieval grounding, and evals. The route in: four years as **Senior Technical Support Engineer (Tier 3)** at the same company (MemberPress) — the highest escalation level, across subscription lifecycle failures, payment gateway conflicts, REST APIs, and platform-critical bugs.
 
-**2,000+ advanced production issues resolved · Customers across US, UAE, Egypt & Europe**
+**5,000+ production issues resolved · Customers across US, UAE, Egypt & Europe**
 
 </td>
 <td width="45%" valign="top">
 
 ### Currently
+
+- Curating and evaluating the knowledge base behind an AI advisor product — playbooks, retrieval grounding, evals
+- Writing about the move from support engineering into applied AI — [start here](https://omarelhawary.com/blog/from-support-tickets-to-evals)
 - Maintaining open-source contributions to **MemberPress** and **Members** (300k+ active installs)
-- Shipping focused MemberPress toolkits for compliance, gating, and reporting
-- Open to **consulting, freelance, and SE/FDE conversations**
+- Open to consulting and freelance work
 
 </td>
 </tr>
@@ -40,11 +39,11 @@ The work overlaps heavily with Solutions Engineering: customer-facing technical 
 
 ---
 
-## 🤝 Open Source Contributions
+## Open source contributions
 
 ### [Members](https://github.com/caseproof/members) — by Caseproof · 300,000+ active installs
 
-The leading WordPress User Roles & Capabilities plugin. Rather than filing issues, I contributed directly to the codebase:
+The leading WordPress User Roles & Capabilities plugin. I contribute directly to the codebase:
 
 | Contribution | Status |
 |---|---|
@@ -56,7 +55,7 @@ The leading WordPress User Roles & Capabilities plugin. Rather than filing issue
 
 ---
 
-## 📦 Published on WordPress.org
+## Published on WordPress.org
 
 <table>
 <tr>
@@ -71,10 +70,10 @@ Built after repeatedly hitting the limits of MemberPress's native admin filterin
 </td>
 <td width="50%" valign="top">
 
-### [MemberPress Gift Reporter](https://wordpress.org/plugins/memberpress-gift-reporter/)
+### [Gift Reporter for MemberPress](https://wordpress.org/plugins/memberpress-gift-reporter/)
 
 [![WordPress.org](https://img.shields.io/badge/View-21759b?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/plugins/memberpress-gift-reporter/)
-[![GitHub](https://img.shields.io/badge/Source-black?style=flat-square&logo=github)](https://github.com/omaraelhawary/memberpress-gift-reporter)
+[![GitHub](https://img.shields.io/badge/Source-black?style=flat-square&logo=github)](https://github.com/omaraelhawary/gift-reporter-for-memberpress)
 
 Identified a reporting gap around Gift memberships while resolving escalated issues. Designed a scalable solution and published it — advanced gift reporting, scheduled reminders, weekly summary automation, and exportable data.
 
@@ -84,9 +83,9 @@ Identified a reporting gap around Gift memberships while resolving escalated iss
 
 ---
 
-## 🧩 MemberPress Ecosystem Tools
+## MemberPress ecosystem tools
 
-Each tool below was built to solve a specific production problem — not as an experiment.
+Every tool here started as a real production problem from an escalated ticket.
 
 <table>
 <tr>
@@ -99,7 +98,7 @@ Restricts members from accessing content published before their membership start
 <td width="50%" valign="top">
 
 **[🔒 Personal Content](https://github.com/omaraelhawary/memberpress-personal-content)**
-Content visibility engine that conditionally renders blocks based on membership levels, active subscriptions, and custom conditions — without theme modifications.
+Adds a My Content tab to the MemberPress account page — per-member Wistia video links, file links, and personal notes, delivered without theme modifications.
 
 </td>
 </tr>
@@ -135,15 +134,16 @@ MemberPress staging safeguards — block MP-related mail, pause reminders, sandb
 
 ---
 
-## 💼 Background
+## Background
 
+**Content and Knowledge Strategist (AI team)** · Caseproof · 2026 – Present<br>
 **Senior Technical Support Engineer (Tier 3)** · Caseproof (MemberPress) · 2022 – Present<br>
 **WordPress Technical Consultant / Lead Developer** · SwiftX · 2023 – Present<br>
 **WordPress Developer** · Leap13 · 2019 – 2022
 
-**Core areas:** Subscription lifecycle · Stripe/PayPal gateway conflicts · WordPress REST API · Access control architecture · WP-Cron async processing · Multi-environment debugging · Caching & performance
+**Core areas:** LLM evals · RAG grounding · Knowledge curation · Subscription lifecycle · Stripe/PayPal gateway conflicts · WordPress REST API · Access control architecture · WP-Cron async processing · Multi-environment debugging · Caching & performance
 
 ---
 
 > [!TIP]
-> Available for consulting, freelance, and full-time SE/FDE opportunities. [Let's connect →](https://www.linkedin.com/in/omaraelhawary/)
+> Available for consulting and freelance work. [Let's connect →](https://www.linkedin.com/in/omaraelhawary/)
