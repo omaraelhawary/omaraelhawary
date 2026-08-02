@@ -5,7 +5,7 @@
 
 **Applied AI — evals, RAG, knowledge systems**
 
-I work in applied AI at Caseproof: I own the content quality of the curated knowledge base behind an AI advisor product — knowledge curation, retrieval grounding, and evals. The foundation is seven years and 5,000+ Tier 3 production tickets, which taught me to tell a plausible answer from a correct one. That turns out to be most of the job. The tools I shipped along the way live here.
+I work in applied AI at Caseproof: I own the content quality of the curated knowledge base behind an AI advisor product — knowledge curation, retrieval grounding, and evals. The foundation is 10K+ support tickets, escalated to Tier 3 for the ones nobody else could solve, which taught me to tell a plausible answer from a correct one. That turns out to be most of the job. The tools I shipped along the way live here.
 
 [![Website](https://img.shields.io/badge/omarelhawary.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://omarelhawary.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraelhawary/)
@@ -19,19 +19,19 @@ I work in applied AI at Caseproof: I own the content quality of the curated know
 
 ### About
 
-**Content and Knowledge Strategist** on **Caseproof**'s AI team — responsible for what goes into an AI advisor product's knowledge base and whether its answers hold up: curation standards, retrieval grounding, and evals. The route in: four years as **Senior Technical Support Engineer (Tier 3)** at the same company (MemberPress) — the highest escalation level, across subscription lifecycle failures, payment gateway conflicts, REST APIs, and platform-critical bugs.
+**AI Knowledge Engineer** on **Caseproof**'s AI team, working on MembersIntel — a Claude-powered advisor for MemberPress operators. I own answer quality end to end: the curated knowledge it draws on, the retrieval that grounds it in a customer's real data, and the shipped fixes when an answer comes out confident and wrong. The route in: four years at the same company on MemberPress support, the last two at Tier 3 — the highest escalation level, across subscription lifecycle failures, payment gateway conflicts, REST APIs, and platform-critical bugs.
 
-**5,000+ production issues resolved · Customers across US, UAE, Egypt & Europe**
+**10K+ support tickets · 18 public five-star Trustpilot reviews · Remote across US, UAE, Egypt & Europe**
 
 </td>
 <td width="45%" valign="top">
 
 ### Currently
 
-- Curating and evaluating the knowledge base behind an AI advisor product — playbooks, retrieval grounding, evals
+- Retrieval grounding, citation integrity, and evals on a production AI advisor
 - Writing about the move from support engineering into applied AI — [start here](https://omarelhawary.com/blog/from-support-tickets-to-evals)
-- Maintaining open-source contributions to **MemberPress** and **Members** (300k+ active installs)
-- Open to consulting and freelance work
+- Maintaining open-source contributions to **MemberPress** and **Members** (300,000+ active installs)
+- Open to applied AI engineering roles — evals, retrieval, agent tooling, knowledge systems
 
 </td>
 </tr>
@@ -136,10 +136,11 @@ MemberPress staging safeguards — block MP-related mail, pause reminders, sandb
 
 ## Background
 
-**Content and Knowledge Strategist (AI team)** · Caseproof · 2026 – Present<br>
-**Senior Technical Support Engineer (Tier 3)** · Caseproof (MemberPress) · 2022 – Present<br>
-**WordPress Technical Consultant / Lead Developer** · SwiftX · 2023 – Present<br>
-**WordPress Developer** · Leap13 · 2019 – 2022
+**AI Knowledge Engineer** · Caseproof (MembersIntel) · Jul 2026 – Present<br>
+**Tier 3 Support Engineer** · Caseproof (MemberPress) · May 2024 – Jul 2026<br>
+**WordPress Support Engineer** · Caseproof (MemberPress) · Sep 2022 – Apr 2024<br>
+**WordPress Technical Consultant / Lead Developer** · SwiftX · Mar 2023 – Present<br>
+**WordPress Developer** · Leap13 / LeapWorx · Jun 2020 – Aug 2022
 
 **Core areas:** LLM evals · RAG grounding · Knowledge curation · Subscription lifecycle · Stripe/PayPal gateway conflicts · WordPress REST API · Access control architecture · WP-Cron async processing · Multi-environment debugging · Caching & performance
 
