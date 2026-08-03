@@ -39,6 +39,26 @@ I work in applied AI at Caseproof: I own the content quality of the curated know
 
 ---
 
+## Applied AI
+
+### [agent-memory](https://github.com/omaraelhawary/agent-memory) — a file-based memory system for AI coding agents
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omaraelhawary/agent-memory)
+[![Write-up](https://img.shields.io/badge/Write--up-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://omarelhawary.com/blog/the-memory-system-behind-my-ai-workflow)
+
+Every LLM session starts from zero, so you spend the first twenty minutes re-explaining your context and then the window closes. This is the structure I built so an agent picks up where the last session left off. It has been running my daily work for months.
+
+Plain markdown, no dependencies, four rules:
+
+| Rule | Why it earns its place |
+|---|---|
+| Standing instructions live apart from state | Behaviour rules barely change; the world changes daily. Mixed, neither can be trusted. |
+| One canonical source, everything else defers | On conflict the newest dated entry wins and the old one is struck. Duplication is fine; ambiguity ships the wrong number. |
+| Nothing untrusted goes straight to memory | External content lands in a holding folder with provenance. Instructions found inside it are data, not commands — a plain defense against prompt injection. |
+| Append and supersede, never delete | An automated writer that can delete can quietly lose what you needed. Clutter is recoverable; a missing fact isn't. |
+
+---
+
 ## Open source contributions
 
 ### [Members](https://github.com/caseproof/members) — by Caseproof · 300,000+ active installs
