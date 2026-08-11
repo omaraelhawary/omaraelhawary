@@ -5,7 +5,7 @@
 
 **Applied AI — evals, RAG, knowledge systems**
 
-I work in applied AI at Caseproof: I own the content quality of the curated knowledge base behind an AI advisor product — knowledge curation, retrieval grounding, and evals. The foundation is 10K+ support tickets, escalated to Tier 3 for the ones nobody else could solve, which taught me to tell a plausible answer from a correct one. That turns out to be most of the job. The tools I shipped along the way live here.
+I work in applied AI at Caseproof: I own the content quality of the curated knowledge base behind an AI advisor product — knowledge curation, retrieval grounding, and evals. The foundation is years of support escalations, the hardest of them at Tier 3, which taught me to tell a plausible answer from a correct one. That turns out to be most of the job. The tools I shipped along the way live here.
 
 [![Website](https://img.shields.io/badge/omarelhawary.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://omarelhawary.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraelhawary/)
@@ -21,7 +21,7 @@ I work in applied AI at Caseproof: I own the content quality of the curated know
 
 **AI Knowledge Engineer** on **Caseproof**'s AI team, working on MembersIntel — a Claude-powered advisor for MemberPress operators. I own answer quality end to end: the curated knowledge it draws on, the retrieval that grounds it in a customer's real data, and the shipped fixes when an answer comes out confident and wrong. The route in: four years at the same company on MemberPress support, the last two at Tier 3 — the highest escalation level, across subscription lifecycle failures, payment gateway conflicts, REST APIs, and platform-critical bugs.
 
-**10K+ support tickets · 18 public five-star Trustpilot reviews · Remote across US, UAE, Egypt & Europe**
+**Tier 3 escalation support · 18 public five-star Trustpilot reviews · Remote across US, UAE, Egypt & Europe**
 
 </td>
 <td width="45%" valign="top">
