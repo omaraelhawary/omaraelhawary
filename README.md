@@ -19,7 +19,7 @@ I work in applied AI at Caseproof: I own the content quality of the curated know
 
 ### About
 
-**AI Knowledge Engineer** on **Caseproof**'s AI team, working on MembersIntel — a Claude-powered advisor for MemberPress operators. I own answer quality end to end: the curated knowledge it draws on, the retrieval that grounds it in a customer's real data, and the shipped fixes when an answer comes out confident and wrong. The route in: four years at the same company on MemberPress support, the last two at Tier 3 — the highest escalation level, across subscription lifecycle failures, payment gateway conflicts, REST APIs, and platform-critical bugs.
+**Applied AI Engineer** on **Caseproof**'s AI team, working on a Claude-powered advisor for membership-site operators. I own answer quality end to end: the curated knowledge it draws on, the retrieval that grounds it in a customer's real data, and the shipped fixes when an answer comes out confident and wrong. The route in: four years at the same company on MemberPress support, the last two at Tier 3 — the highest escalation level, across subscription lifecycle failures, payment gateway conflicts, REST APIs, and platform-critical bugs.
 
 **Tier 3 escalation support · 18 public five-star Trustpilot reviews · Remote across US, UAE, Egypt & Europe**
 
@@ -156,7 +156,7 @@ MemberPress staging safeguards — block MP-related mail, pause reminders, sandb
 
 ## Background
 
-**AI Knowledge Engineer** · Caseproof (MembersIntel) · Jul 2026 – Present<br>
+**Applied AI Engineer** · Caseproof · Jul 2026 – Present<br>
 **Tier 3 Support Engineer** · Caseproof (MemberPress) · May 2024 – Jul 2026<br>
 **WordPress Support Engineer** · Caseproof (MemberPress) · Sep 2022 – Apr 2024<br>
 **WordPress Technical Consultant / Lead Developer** · SwiftX · Mar 2023 – Present<br>
