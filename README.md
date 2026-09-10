@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16324a,100:21759b&height=120&section=header&text=Omar%20El-Hawary&fontSize=36&fontColor=ffffff&fontAlignY=65">
-  <img alt="Omar El-Hawary — applied AI: evals, RAG, knowledge systems" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4f8,100:21759b&height=120&section=header&text=Omar%20El-Hawary&fontSize=36&fontColor=1a1a2e&fontAlignY=65" width="100%">
+  <img alt="Omar El-Hawary — applied AI and forward deployed engineering: evals, RAG, knowledge systems" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4f8,100:21759b&height=120&section=header&text=Omar%20El-Hawary&fontSize=36&fontColor=1a1a2e&fontAlignY=65" width="100%">
 </picture>
 
-**Applied AI — evals, RAG, knowledge systems**
+**Applied AI and forward deployed engineering: evals, RAG, knowledge systems**
 
-I work in applied AI at Caseproof: I own the content quality of the curated knowledge base behind an AI advisor product — knowledge curation, retrieval grounding, and evals. The foundation is years of support escalations, the hardest of them at Tier 3, which taught me to tell a plausible answer from a correct one. That turns out to be most of the job. The tools I shipped along the way live here.
+I work in applied AI at Caseproof: I own the content quality of the curated knowledge base behind an AI advisor product — knowledge curation, retrieval grounding, and evals. The foundation is years of support escalations, the hardest of them at Tier 3, which taught me to tell a plausible answer from a correct one. That turns out to be most of the job. The other half is forward deployed: scoping a problem with the customer and shipping the fix, which is what I do at SwiftX. The tools I shipped along the way live here.
 
 [![Website](https://img.shields.io/badge/omarelhawary.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://omarelhawary.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaraelhawary/)
@@ -19,7 +19,7 @@ I work in applied AI at Caseproof: I own the content quality of the curated know
 
 ### About
 
-**Applied AI Engineer** on **Caseproof**'s AI team, working on a Claude-powered advisor for membership-site operators. I own answer quality end to end: the curated knowledge it draws on, the retrieval that grounds it in a customer's real data, and the shipped fixes when an answer comes out confident and wrong. The route in: four years at the same company on MemberPress support, the last two at Tier 3 — the highest escalation level, across subscription lifecycle failures, payment gateway conflicts, REST APIs, and platform-critical bugs.
+**Applied AI Engineer / Forward Deployed Engineer.** On **Caseproof**'s AI team, working on a Claude-powered advisor for membership-site operators. I own answer quality end to end: the curated knowledge it draws on, the retrieval that grounds it in a customer's real data, and the shipped fixes when an answer comes out confident and wrong. The route in: four years at the same company on MemberPress support, the last two at Tier 3 — the highest escalation level, across subscription lifecycle failures, payment gateway conflicts, REST APIs, and platform-critical bugs.
 
 **Tier 3 escalation support · 18 public five-star Trustpilot reviews · Remote across US, UAE, Egypt & Europe**
 
@@ -31,7 +31,7 @@ I work in applied AI at Caseproof: I own the content quality of the curated know
 - Retrieval grounding, citation integrity, and evals on a production AI advisor
 - Writing about the move from support engineering into applied AI — [start here](https://omarelhawary.com/blog/from-support-tickets-to-evals)
 - Maintaining open-source contributions to **MemberPress** and **Members** (300,000+ active installs)
-- Open to applied AI engineering roles — evals, retrieval, agent tooling, knowledge systems
+- Open to applied AI and forward deployed engineering roles, remote from Cairo. Four years remote for a US company already.
 
 </td>
 </tr>
